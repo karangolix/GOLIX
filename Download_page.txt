@@ -1,0 +1,1 @@
+[fm]d=all,to=:to-fid:||<div align="center"><b><img src="%music-thumb%" width="140"/> <br /> <br /> <a href="%link%"><font color="red">Download -</font>%name%</a><br /><br />Download File </a></center><br />Size - <font color="blue">%size% </font><br />Hits - <font color="blue">1%hits% Times</font><br /><br />%player%<b></div>[/fm]
