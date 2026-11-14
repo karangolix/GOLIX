@@ -1,0 +1,2 @@
+# GOLIX
+My Technology Website 
